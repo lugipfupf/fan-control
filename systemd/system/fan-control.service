@@ -1,0 +1,7 @@
+[Unit]
+Description=AIO Fan Control
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/fan-control.sh

@@ -1,0 +1,11 @@
+[Unit]
+Description=Run AIO Fan Control every 10 seconds
+
+[Timer]
+OnBootSec=10
+OnUnitActiveSec=10
+AccuracySec=1s
+Persistent=false
+
+[Install]
+WantedBy=timers.target
