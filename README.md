@@ -10,3 +10,7 @@ The script is executed every 10 seconds using a systemd timer.
 ## Disclaimer
 If you use this script and setup, as is or as an example, you do this at your own risk. I am not responsible in any way if your hardware overheats.
 
+## License
+Copyright (C) 2025 lugipfupf
+This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, reproduced in the respective LICENSE file.
+
